@@ -1,0 +1,21 @@
+title: SEN CONNECT
+
+**Visual Schedule and Social Story Builder** — An Offline, Bilingual (Urdu/English) 
+AI Application for Learners with Autism Spectrum Disorder and Developmental Disabilities
+
+## Project Abstract
+
+Children with Autism Spectrum Disorder (ASD) and other developmental disabilities in 
+Pakistan face two problems at once: a shortage of individual, evidence-based tools 
+(such as visual schedules and Social Stories), and a lack of software that works 
+reliably without stable electricity or internet, in the learner's own language. 
+This project presents SEN-Connect, an offline-first, bilingual (Urdu/English) mobile 
+application built around three connected modules: (1) a Visual Schedule Builder that 
+gives learners predictable, picture-based routines; (2) a Social Story Builder that 
+lets teachers and parents create narrated, illustrated stories targeting one specific 
+behavior, and automatically logs behavior frequency before and after each story; and 
+(3) an on-device conversational chatbot, trained only on autism-support content, that 
+answers teacher and caregiver questions and helps generate schedules or stories through 
+natural conversation — in English or Urdu, without any internet connection. The project 
+also includes a Behavior Therapy module for structured ABC (Antecedent-Behavior-Consequence) 
+tracking, all running fully offline on a standard Android tablet.
